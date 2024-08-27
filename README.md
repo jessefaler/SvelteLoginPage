@@ -41,7 +41,8 @@ To customize the login page edit the Svelte components in the `src` folder.
 - [ ] Add user authentication (login/logout)
 - [ ] Manage user sessions (persistent login)
 
-##Images
+## Images
 
 ![Screenshot 2024-08-27 165458](https://github.com/user-attachments/assets/cb71d89d-5451-4820-b5c2-252297bdb654)
 ![Screenshot 2024-08-27 165358](https://github.com/user-attachments/assets/fb095419-4554-46ed-bb42-a107605e6b81)
+---
