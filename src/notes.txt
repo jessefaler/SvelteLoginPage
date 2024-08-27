@@ -1,0 +1,22 @@
+https://svgconverter.app/free //free SVG converter (Vector Graphics)
+
+----------------------------------------------
+METRICS:
+* unlighthouse for testing website metrics such as performance, accessibility, best practices, SEO, and PWA:
+   - RUN: npx unlighthouse --site localhost:5173/login
+
+ * use Web Vitals Chrome extension for checking website metrics:
+   - open chrome console for LPC and CLS information
+   - look at https://www.youtube.com/watch?v=0fONene3OIA for more information
+----------------------------------------------
+
+
+3D object rendering:
+ - https://threlte.xyz/
+
+ - https://spline.design/
+ - https://www.youtube.com/watch?v=GSNkuHcBg9c
+
+
+ui libraries:
+- https://daisyui.com/components/table/
